@@ -51,7 +51,7 @@
 			<td>POST</td>
 			<td>/restlab/resources/contacts/4</td>
 			<td>{ "name": "Jim James", "phonenumber": "555-123-1234",
-				"emailaddress": "jim.james@restlab.com"}</td>
+				"emailaddress": "ramnsangwan@gmail.com"}</td>
 			<td>405 Method Not Allowed</td>
 			<td>n/a</td>
 		</tr>
@@ -67,7 +67,7 @@
 		<tr>
 			<td>POST</td>
 			<td>/restlab/resources/contacts</td>
-			<td>{ "name": "Jim James", "phone": "555-123-1234", "email":
+			<td>{ "name": "Jim James", "phone": "9312406920", "email":
 				"jim.james@restlab.com"}</td>
 			<td>201 Created</td>
 			<td>A JSON representation of the newly created contact,

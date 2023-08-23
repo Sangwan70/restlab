@@ -8,7 +8,7 @@
 	<h3>Resource 1: Contacts</h3>
 	<h4>URL Endpoints:</h4>
 	<ul>
-		<li>GET /restlab/resources/contacts - gets all contacts</li>
+		<li>GET /restlab/resources/contacts - gets all contacts - Oracle</li>
 		<li>GET /restlab/resources/contacts/{contactId} - gets the contact with an
 			ID of {contactId}</li>
 		<li>POST /restlab/resources/contacts - creates a new contact</li>
@@ -50,7 +50,7 @@
 		<tr>
 			<td>POST</td>
 			<td>/restlab/resources/contacts/4</td>
-			<td>{ "name": "Jim James", "phonenumber": "555-123-1234",
+			<td>{ "name": "Ram N Sangwan", "phonenumber": "931-240-6920",
 				"emailaddress": "jim.james@restlab.com"}</td>
 			<td>405 Method Not Allowed</td>
 			<td>n/a</td>
